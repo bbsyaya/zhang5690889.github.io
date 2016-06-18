@@ -1,3 +1,8 @@
+/*!
+ * Hux Blog v1.6.0 (http://huxpro.github.io)
+ * Copyright 2016 Hux <huxpro@gmail.com>
+ */
+
 @media (min-width: 1200px) {
   .post-container,
   .sidebar-container {
@@ -1004,6 +1009,42 @@ img::-moz-selection {
   margin-top: 3px;
 }
 /* Hux customize Style for Duoshuo */
+.comment {
+  margin-top: 20px;
+}
+.comment #ds-thread #ds-reset a.ds-like-thread-button {
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  background: white;
+  box-shadow: none;
+  text-shadow: none;
+}
+.comment #ds-thread #ds-reset li.ds-tab a.ds-current {
+  border: 1px solid #ddd;
+  border-radius: 0px;
+  background: white;
+  box-shadow: none;
+  text-shadow: none;
+}
+.comment #ds-thread #ds-reset .ds-textarea-wrapper {
+  background: none;
+}
+.comment #ds-thread #ds-reset .ds-gradient-bg {
+  background: none;
+}
+.comment #ds-thread #ds-reset .ds-post-options {
+  border-bottom: 1px solid #ccc;
+}
+.comment #ds-thread #ds-reset .ds-post-button {
+  border-bottom: 1px solid #ccc;
+}
+.comment #ds-thread #ds-reset .ds-post-button {
+  background: white;
+  box-shadow: none;
+}
+.comment #ds-thread #ds-reset .ds-post-button:hover {
+  background: #eeeeee;
+}
 #ds-smilies-tooltip ul.ds-smilies-tabs li a {
   background: white !important;
 }
@@ -1051,5 +1092,16 @@ img::-moz-selection {
 .page-fullscreen footer .copyright a:hover {
   color: #ddd;
 }
-
-
+#toTop {
+  display: none;
+  text-decoration: none;
+  position: fixed;
+  bottom: 25px;
+  right: 10px;
+  overflow: hidden;
+  width: 48px;
+  height: 48px;
+  border: none;
+  text-indent: 100%;
+  background: url(/img/up.png) no-repeat 0px 0px;
+}

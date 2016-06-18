@@ -39,10 +39,17 @@ $(document).ready(function() {
     $('iframe[src*="youtube.com"]').addClass('embed-responsive-item');
     $('iframe[src*="vimeo.com"]').wrap('<div class="embed-responsive embed-responsive-16by9"></div>');
     $('iframe[src*="vimeo.com"]').addClass('embed-responsive-item');
+     //toTop
+   $().UItoTop({ easingType: 'easeOutQuart' });
+   // Image popup
+   
+   $('.image-link').magnificPopup({type:'image'});
+   
 });
 
 // Navigation Scripts to Show Header on Scroll-Up
 jQuery(document).ready(function($) {
+    
     var MQL = 1170;
 
     //primary navigation slide-in effect
