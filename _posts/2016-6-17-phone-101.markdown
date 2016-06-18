@@ -22,4 +22,4 @@ tags:
 手机信号不好，再便宜也不好用，所以我们首先来看各公司的coverage map, 看哪个公司更适合您的所在地：
 点击图片看大图，或点服务商名字查看逐步缩放图.
 
-<a class="image-link" href="http://www.dealmoon.com/images/cpmap/map1.jpg">Open popup</a>
+<a class="image-link" href="/img/404-bg.jpg">Open popup</a>
