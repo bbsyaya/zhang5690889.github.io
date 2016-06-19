@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: 
 description: "北美留学生必备的攻略"
 keyword: "北美留学必备, 北美留学必备博客 ,博客, 个人网站, 互联网, 前端, 设计, 产品"
-url: "https://jekyllblog-zhang5690889.c9users.io"              # your host, for absolute URL
+url: "http://zhang5690889.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
