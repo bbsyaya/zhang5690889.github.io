@@ -2,6 +2,7 @@
 layout:     post
 title:      "美国手机服务指南"
 subtitle:   "初来乍到美国必备的手机服务常识"
+description: "初来乍到美国必备的手机服务常识。本文就针对美国的手机服务进行一个简单的介绍。目的就是希望能帮助刚来到美国的同学了解一下美国无限通讯行业的基本常识。"
 author:     "XZ"
 header-img: "img/post-bg-2015.jpg"
 catalog:    true
