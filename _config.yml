@@ -4,7 +4,7 @@ SEOTitle: 北美留学必备攻略 | NA Guide
 header-img: img/home-bg.jpg
 email: 
 description: "北美留学生必备的攻略"
-keyword: "张新闻, 北美留学必备, 北美留学必备博客,张新闻的博客 ,博客, 个人网站, 互联网, 前端, 设计, 产品"
+keyword: "北美留学必备, 北美留学必备博客 ,博客, 个人网站, 互联网, 前端, 设计, 产品"
 url: "https://jekyllblog-zhang5690889.c9users.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -26,7 +26,7 @@ linkedin_username:  xinwen-zhang-58a902113
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude: ["less","Gruntfile.js","node_modules","package.json","README.md"]
+exclude: ["less","Gruntfile.js","node_modules","package.json","README.md","about.html"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
 
@@ -62,7 +62,7 @@ sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in
 
 # Featured Tags
 featured-tags: true                     # whether or not using Feature-Tags
-featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+featured-condition-size: 0              # A tag will be featured if the size of it is more than this condition value
 
 
 
