@@ -1,69 +1,55 @@
-// This disables selection and right click
-function clickIE4() {
-    if (event.button == 2) {
+//Didsable text selection
+function disabletext(e) {
+    return false
+}
+
+function reEnable() {
+    return true
+}
+
+//if the browser is IE4+
+document.onselectstart = new Function("return false")
+
+//if the browser is NS6
+if (window.sidebar) {
+    document.onmousedown = disabletext
+    document.onclick = reEnable
+}
+
+
+//disable f12
+document.onkeydown = function(e) {
+    if (e.which == 17 || e.which == 18 || e.which == 91 || e.which == 93 || e.which == 123 || e.which == 224) {
         return false;
     }
 }
-function clickNS4(e) {
-    if (document.layers || document.getElementById && !document.all) {
-        if (e.which == 2 || e.which == 3) {
-            return false;
-        }
+
+//disable ctrl shift i
+window.addEventListener("keydown", function(e) {
+    if (e.ctrlKey && (e.which == 16 || e.which == 73 || e.which == 74)) {
+        e.preventDefault();
     }
+})
+document.keypress = function(e) {
+    if (e.ctrlKey && (e.which == 16 || e.which == 73 || e.which == 74)) {}
+    return false;
+};
+
+window.addEventListener("keydown", function(e) {
+    if (e.ctrlKey && (e.which == 65 || e.which == 66 || e.which == 67 || e.which == 70 || e.which == 80 || e.which == 83 || e.which == 85)) {
+        e.preventDefault();
+    }
+})
+document.keypress = function(e) {
+    if (e.ctrlKey && (e.which == 65 || e.which == 66 || e.which == 67 || e.which == 70 || e.which == 80 || e.which == 83 || e.which == 85)) {}
+    return false;
+};
+
+//diable right click
+document.oncontextmenu = function(e) {
+    var t = e || window.event;
+    var elm = t.target || t.srcElement;
+    if (elm.nodeName == "A" || elm.type == 'text' || elm.type == 'password')
+        return true;
+    return false;
 }
-if (document.layers) {
-    document.captureEvents(Event.MOUSEDOWN);
-    document.onmousedown = clickNS4;
-}
-else if (document.all && !document.getElementById) {
-    document.onmousedown = clickIE4;
-}
-document.oncontextmenu = new Function("return false")
-document.onselectstart = new Function('return false');
-function dMDown(e) { return false; }
-function dOClick() { return true; }
-document.onmousedown = dMDown;
-document.onclick = dOClick;
-document.oncontextmenu = new Function("return false");
-function disableSelectCopy(e) {
-    var pressedKey = String.fromCharCode(e.keyCode).toLowerCase();
-    if (e.ctrlKey && (pressedKey == "c" || pressedKey == "x" || pressedKey == "v" || pressedKey == "a")) {
-
-        return false;
-    }
-}
-document.onkeydown = disableSelectCopy;
-document.onkeydown = function (objEvent) {
-
-        if (objEvent.ctrlKey || objEvent.metaKey) {
-
-            if (objEvent.keyCode == 65 || objEvent.keyCode == 97) {
-
-                return false;
-            }
-        }
-
-    };
-
-// diable F12
-    document.onkeypress = function (event) {
-        event = (event || window.event);
-        if (event.keyCode == 123) {
-           //alert('No F-12');
-            return false;
-        }
-    }
-    document.onmousedown = function (event) {
-        event = (event || window.event);
-        if (event.keyCode == 123) {
-            //alert('No F-keys');
-            return false;
-        }
-    }
-document.onkeydown = function (event) {
-        event = (event || window.event);
-        if (event.keyCode == 123) {
-            //alert('No F-keys');
-            return false;
-        }
-    }
