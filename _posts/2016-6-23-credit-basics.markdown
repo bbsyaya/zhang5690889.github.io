@@ -2,7 +2,7 @@
 layout:     post
 title:      "美国信用体系与 5 大影响因素"
 subtitle:   "个人信用体系运作以及必备常识"
-description: "test"
+description: "美国的社会信用体系是以个人信用制度为基础的，有完善的个人信用档案登记制度、规范的个人信用评估机制、严密的个人信用风险预警系统及其管理办法，还有健全的信用法律体系。"
 author:     "XZ"
 catalog:    true
 tags:

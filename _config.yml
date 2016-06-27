@@ -1,6 +1,5 @@
 # Site settings
 title: 北美留学必备攻略
-SEOTitle: 北美留学必备攻略 | NA Guide
 header-img: img/home-bg.jpg
 email: 
 description: "北美留学生必备的攻略"
@@ -67,6 +66,7 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 gems:
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-seo-tag
 
 # Friends
 # friends: [
