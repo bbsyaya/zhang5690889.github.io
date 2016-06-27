@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://zhang5690889.github.io/sitemap.xml
