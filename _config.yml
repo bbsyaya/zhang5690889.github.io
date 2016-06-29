@@ -69,7 +69,7 @@ gems:
   - jekyll-paginate
   - jekyll-seo-tag
   
-minify_html: false
+minify_html: true
 
 # Friends
 # friends: [
