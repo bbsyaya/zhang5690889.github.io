@@ -1,6 +1,6 @@
 # Site settings
 title: 北美留学攻略网
-header-img: img/home-bg.jpg
+header-img: img/home-bg.webp
 email: 
 description: "北美留学生必备的攻略"
 keyword: "北美留学必备, 北美留学必备博客 ,博客, 个人网站, 互联网, 前端, 设计, 产品"
@@ -65,8 +65,11 @@ featured-condition-size: 0              # A tag will be featured if the size of 
 
 gems:
   - jekyll-sitemap
+  - octopress-minify-html
   - jekyll-paginate
   - jekyll-seo-tag
+  
+minify_html: false
 
 # Friends
 # friends: [
