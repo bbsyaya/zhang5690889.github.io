@@ -1104,3 +1104,18 @@ img::-moz-selection {
   border: none;
   background: url(/img/up.png) no-repeat 0px 0px;
 }
+#toTopHover {
+  background: url(/img/up.png) no-repeat left -51px;
+  width: 51px;
+  height: 51px;
+  display: block;
+  overflow: hidden;
+  float: left;
+  opacity: 0;
+  -moz-opacity: 0;
+  filter: alpha(opacity=0);
+}
+#toTop:active,
+#toTop:focus {
+  outline: none;
+}
