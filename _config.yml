@@ -44,8 +44,8 @@ kramdown:
 
 # Analytics settings
 # Google Analytics
-ga_track_id: 'UA-78728526-3'            # Format: UA-xxxxxx-xx
-ga_domain: zhang5690889.github.io
+ga_track_id: UA-78728526-3            # Format: UA-xxxxxx-xx
+ga_domain: liuxueusa.xyz
 
 
 
