@@ -45,6 +45,7 @@
   display: block;
   border-radius: 5px;
   margin-bottom: 20px;
+  margin: 0 auto;
 }
 .sidebar-container .short-about p {
   margin-top: 0px;
