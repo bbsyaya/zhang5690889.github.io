@@ -41,7 +41,7 @@ layout: default
                 <!-- Featured Tags -->
                 {% if site.featured-tags %}
                 <section>
-                    <hr class="hidden-sm hidden-xs">
+                    <hr>
                     <h5><a href="{{'/tags/' | prepend: site.baseurl }}">热门标签</a></h5>
                     <div class="tags">
                         {% for tag in site.tags %}
@@ -56,7 +56,7 @@ layout: default
                 {% endif %}
 
                 <!-- Short About -->
-                <section class="visible-xs visible-lg">
+                <section>
                     <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">关于</a></h5>
                     <div class="short-about">
                         {% if site.sidebar-avatar %}
