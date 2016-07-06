@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "8大拿美国绿卡方式"
-subtitle:   "你的美国梦在哪里？第一步便是绿卡！"
 description: "你的美国梦在哪里？第一步便是绿卡。如果您决定想要申请绿卡，以下的文章里就会介绍那绿卡的各种方法。"
 author:     "XZ"
 tags:

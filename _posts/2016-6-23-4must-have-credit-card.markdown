@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      "留学生必备的 4 大信用卡"
-subtitle:   "信用卡之争，办什么信用卡有最多福利？"
 description: "为什么要用信用卡？因为信用卡是提高信用的最简单，快捷的方式。什么是信用呢？请参见..."
 author:     "XZ"
+categories: [top]
 catalog:    true
 tags:
     - 信用

@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "美国5大最省钱Prepaid手机计划"
-subtitle:   "看了此贴再也不会为找不到合适手机计划浪费时间了"
 description: "美国5大最省钱Prepaid手机计划。Prepaid手机计划的主要优点是价格低廉，不用签约，使用灵活。多数MVNO都可以让你port原来的号码，对很多普通人来说，对手机的使用要求不高，电话量不多，偶尔使用data，是一个比较经济的选择。因为可以自带手机入网，手机需要自购，或者使用旧的手机。"
 author:     "XZ"
 header-img: "img/post-bg-2015.jpg"

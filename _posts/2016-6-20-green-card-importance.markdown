@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "最全美国绿卡利与弊分析"
-subtitle:   "美国绿卡到底有什么好处与弊端？此帖为你解答！"
 description: "美国绿卡到底有什么好处？此帖为你解答。"
 author:     "XZ"
 tags:

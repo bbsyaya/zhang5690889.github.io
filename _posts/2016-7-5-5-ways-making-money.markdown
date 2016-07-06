@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "5个最靠谱的留学生赚钱方法"
-subtitle:   "不要浪费课余时间，去赚点生活费吧！"
 description: "在美国，国际学生能赚到钱的机会非常有限。很多校外工作都有局限性，并存在不小的风险。在这里我就给出5个最靠谱的赚钱方法。"
 author:     "XZ"
 header-img: "img/post-bg-2015.jpg"

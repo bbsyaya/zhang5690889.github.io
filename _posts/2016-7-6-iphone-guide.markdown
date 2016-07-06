@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "美国iPhone购买指南：哪些回国能用？"
-subtitle:   "回国使用如何挑选正确的运营商"
 description: "在 iPhone 6s/6s Plus 发布之前，iPhone 的各个运营商(Carrier)版本使用着不同的制式，如果拿回国使用的话，即使解锁也可能面临着无法使用3G/4G网络的问题。但是新发布的 iPhone 6s/6s Plus 的制式已经可以涵盖中国的所有网络了，真正实现了全网通！这简直是广大北美留学生的福音！下图显示了各个运营商版本的iPhone对国内网络的支持情况，希望此图可以帮助大家购买到正确的iPhone！"
 author:     "XZ"
 tags:
