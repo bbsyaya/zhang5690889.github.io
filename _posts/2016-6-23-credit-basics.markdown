@@ -5,7 +5,6 @@ description: "美国的社会信用体系是以个人信用制度为基础的，
 author:     "XZ"
 catalog:    true
 tags:
-    - 知识库
     - 信用
 ---
 ## 前言

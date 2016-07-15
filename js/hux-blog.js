@@ -47,7 +47,6 @@ $(document).ready(function() {
    
 });
 
-
 // Navigation Scripts to Show Header on Scroll-Up
 jQuery(document).ready(function($) {
     
@@ -90,3 +89,5 @@ jQuery(document).ready(function($) {
             });
     }
 });
+
+

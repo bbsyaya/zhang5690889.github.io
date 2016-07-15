@@ -67,6 +67,15 @@ gems:
   
 minify_html: false
 
+# Feature list:
+# 1. Google ads 
+# 2. Google analytics
+# 3. Front-end search
+# 4. Security Feature 
+# 5. Amazon ads (in progress)
+# 6. Adblocker detection
+
+
 # Friends
 # friends: [
 #     {
