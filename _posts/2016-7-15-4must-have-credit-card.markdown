@@ -41,7 +41,7 @@ tags:
 
 ## 2.Chase Freedom
 
-![chase](http://static.slickdealscdn.com/attachment/2/8/0/2/7/9/682818.attach)
+![chase](http://travelwithgrant.boardingarea.com/wp-content/uploads/2014/12/Chase-Freedom-Credit-Card.png)
 
 **上榜理由：**
 
