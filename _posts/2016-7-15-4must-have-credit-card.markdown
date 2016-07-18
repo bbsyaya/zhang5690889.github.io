@@ -35,18 +35,9 @@ tags:
 * 开卡的额度相对比较低，一般只有1000-2000左右，一般等半年一年后会增加
 * 有些商店，餐馆不收Discover，因为用户奖励太多，对商家收的手续费较高
 
-**免费推荐：**
+**[点击这里申请有额外50刀奖励](http://refer.discover.com/s/ulo6c?share_id=6307610796476034233)**
 
-**在这里输上您的Email，然后我们会在24小时之内发送邀请的信息，通过里面的链接申请此卡，就可以获得50刀的奖励了！**
-<form action="https://formspree.io/robinzhang8803@gmail.com"
-      method="POST">
-<fieldset class="form-group">
-    <input class="form-control" type="email" name="_replyto" placeholder="请输入您的Email">
-     <input type="text" name="Card" value="Discover" style="display:none" />
-    <input type="hidden" name="_format" value="plain" />
-    <button type="submit" class="btn btn-primary pull-right">获得奖励</button>
-</fieldset>
-</form>
+
 
 ## 2.Chase Freedom
 
