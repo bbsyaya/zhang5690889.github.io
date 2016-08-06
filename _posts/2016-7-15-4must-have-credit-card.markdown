@@ -75,7 +75,7 @@ tags:
 * 无推荐奖励
 * 返现不灵活
 
-## 4. Blue Cash Everyday Card American Express
+## 4. [Blue Cash Everyday Card American Express](http://email.americanexpress.com/a/tBXnslAAQB6FsB8z9nWNwX2pM.AQB6Fsxw/axp11?APPURL=blue-cash-everyday-credit-card/49005-750-0-9FDBCE6021906661E8978CA44EAB70B3F630B68437904BAA-200002-SBLWX6SIAdCXaP9I3GkHDg35*cQ=){:target="_blank"}
 
 ![American Expres](http://2spaxp304su575mws415dydz.wpengine.netdna-cdn.com/wp-content/uploads/2013/08/American-Express-Blue-Cash-Everyday.png)
 
@@ -96,16 +96,7 @@ tags:
 
 **免费推荐：**
 
-**在这里输上您的Email，然后我们会在24小时之内发送邀请的信息，通过里面的链接申请此卡, 申请的通过率就会高一些！**
-<form action="https://formspree.io/robinzhang8803@gmail.com"
-      method="POST">
-<fieldset class="form-group">
-    <input class="form-control" type="email" name="_replyto" placeholder="请输入您的Email">
-    <input type="text" name="Card" value="Amex" style="display:none" />
-    <input type="hidden" name="_format" value="plain" />
-    <button type="submit" class="btn btn-primary pull-right">获得奖励</button>
-</fieldset>
-</form>
+**[用此链接申请几率更大](http://email.americanexpress.com/a/tBXnslAAQB6FsB8z9nWNwX2pM.AQB6Fsxw/axp11?APPURL=blue-cash-everyday-credit-card/49005-750-0-9FDBCE6021906661E8978CA44EAB70B3F630B68437904BAA-200002-SBLWX6SIAdCXaP9I3GkHDg35*cQ=){:target="_blank"}**
 
 
 
