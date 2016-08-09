@@ -36,4 +36,8 @@ tags:
 * 衣物
 * 电子设备
 
+在密尔沃基的同学，如果需要什么帮助。 可以加我微信！
+
+![我的微信]({{site.baseurl}}/img/icon_wechat.png)
+
 
