@@ -4,6 +4,13 @@ description: "北美最有价值的学生攻略。留学生必备的信息，技
 header-img: "img/post-bg-2015.jpg"
 subtitle: "-北美最有价值的学生攻略"
 ---
+<h1>标签:</h1>
+	<div id='tag_cloud' class="tags">
+				{% for tag in site.tags %}
+				<a href="/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}{{ tag[1].size}}</a>
+				{% endfor %}
+			</div>
+
 
 <h1>最新热门:</h1>
 
