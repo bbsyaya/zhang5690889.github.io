@@ -3,7 +3,6 @@ layout:     post
 title:      "第一次来美国应该带些什么，来之后买些什么？"
 description: "第一次来美国的同学都不知道带些什么，我回来下文里简单说一下什么要带，什么没必要带。"
 author:     "XZ"
-categories: [top]
 catalog:    true
 tags:
     - 新生
