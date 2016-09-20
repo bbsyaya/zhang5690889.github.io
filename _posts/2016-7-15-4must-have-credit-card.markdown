@@ -40,7 +40,7 @@ tags:
 
 
 
-## 2.[Chase Freedom](https://creditcards.chase.com/credit-cards/cash-back?CELL=6555){:target="_blank"}
+## 2.[Chase Freedom](https://applynow.chase.com/FlexAppWeb/renderApp.do?SPID=FJF6&CELL=63HP&MSC=1534838658){:target="_blank"}
 
 ![chase](http://travelwithgrant.boardingarea.com/wp-content/uploads/2014/12/Chase-Freedom-Credit-Card.png)
 
