@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "终极手机代理-返回墙内"
+title:      "终极手机代理-翻回墙内"
 description: "推荐一款帮助海外华人访问国内应用的VPN!"
 author:     "张新闻"
 categories: [top]
