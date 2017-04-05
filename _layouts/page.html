@@ -49,7 +49,7 @@ layout: default
                     <hr><h5><a href="{{'/tags/' | prepend: site.baseurl }}">热门标签</a></h5>
                     <div class="tags">
                         {% for tag in site.tags %}
-                            {% if tag[1].size > {{site.featured-condition-size}} %}
+                            {% if tag[1].size > site.featured-condition-size %}
                                 <a href="{{ site.baseurl }}/tags/#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">
                                     {{ tag[0] }}
                                 </a>
@@ -145,9 +145,7 @@ layout: default
                         </ul>
                     </div>
                 </section>
-                <section>
-                    {% include adsense.html %}
-                </section>
+               
                 <!-- Friends Blog -->
                 {% if site.friends %}
                 <hr>
