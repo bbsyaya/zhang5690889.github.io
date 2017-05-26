@@ -61,7 +61,7 @@ layout: default
 
                 <!-- Short About -->
                 <section>
-                    <hr><h5><a href="{{'/about/' | prepend: site.baseurl }}">关于</a></h5>
+                    <hr><h5>关于</h5>
                     <div class="short-about">
                         {% if site.sidebar-avatar %}
                             <img src="{{site.sidebar-avatar}}" />
@@ -145,17 +145,6 @@ layout: default
                         </ul>
                     </div>
                 </section>
-               
-                <!-- Friends Blog -->
-                {% if site.friends %}
-                <hr>
-                <h5>FRIENDS</h5>
-                <ul class="list-inline">
-                    {% for friend in site.friends %}
-                        <li><a href="{{friend.href}}">{{friend.title}}</a></li>
-                    {% endfor %}
-                </ul>
-                {% endif %}
     		</div>
 	</div>
 </div>

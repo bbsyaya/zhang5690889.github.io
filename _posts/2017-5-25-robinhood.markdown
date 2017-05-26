@@ -11,9 +11,10 @@ tags:
 
 ## 前言
 
+![](https://fthmb.tqn.com/U733jhmhZuwV2kPjvP9oW5VZCo8=/450x300/filters:no_upscale()/about/stockinvesting-5824dac45f9b58d5b1b85692.png)
+
 在美国时间稍微长的同学都可能想去玩玩股票吧。但是大部分的网上交易平台，比如Scottrade 的佣金都非常贵。现在大家不用担心佣金的问题了，最近出了一个手机端炒股平台Robinhood，是**完全** 免佣金的。
 
-![](http://i.investopedia.com/dimages/graphics/robinhood_0.jpg)
 
 ## 免费？那这公司是怎么盈利的呢？
 
@@ -33,7 +34,8 @@ tags:
 
 **2. 手机端操作，方便简单。**
 
-![](https://fthmb.tqn.com/U733jhmhZuwV2kPjvP9oW5VZCo8=/450x300/filters:no_upscale()/about/stockinvesting-5824dac45f9b58d5b1b85692.png)
+
+![](http://i.investopedia.com/dimages/graphics/robinhood_0.jpg)
 
 #### 有没有心动？那就行动起来吧。底下是下载地址，记得用这里的链接申请，有额外奖励哦。       
 
