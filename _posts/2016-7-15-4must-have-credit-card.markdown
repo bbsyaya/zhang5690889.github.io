@@ -20,7 +20,7 @@ tags:
 
 ## 1.[Discover it (留学生必备)](http://refer.discover.com/s/ulo6c?share_id=6307610796476034233){:target="_blank"}
 
-![discover](http://www.thesimpledollar.com/wp-content/uploads/2015/07/discover-it-card-art.png)
+![discover](http://www.knaddison.com/sites/knaddison.com/files/Blue_Discover_it_Card_Front_072012.jpg)
 
 **上榜理由：**
 
