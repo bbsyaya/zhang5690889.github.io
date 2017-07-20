@@ -37,13 +37,13 @@ tags:
 
 ![](http://i.investopedia.com/dimages/graphics/robinhood_0.jpg)
 
-#### 有没有心动？那就行动起来吧。底下是下载地址，记得用这里的链接申请，有额外奖励哦。       
+#### 有没有心动？那就行动起来吧。底下是下载地址，记得用这里的推荐链接，双方都会得到免费的一股随机股票。       
 
 #### [安卓点击下载](http://share.robinhood.com/xinwenz){:target="_blank"} 
 
 #### [IOS点击下载](http://share.robinhood.com/xinwenz){:target="_blank"} 
 
-> 电脑版同学可以[点击](http://share.robinhood.com/xinwenz)这里注册账户，记得用[这里](http://share.robinhood.com/xinwenz)的链接，有额外奖励哦！
+> 电脑版同学可以[点击](http://share.robinhood.com/xinwenz)这里注册账户，记得用[这里](http://share.robinhood.com/xinwenz)的链接，有一股随机股票奖励哦！
 
 
 
