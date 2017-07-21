@@ -1,19 +1,20 @@
 ---
 layout:     post
-title:      "美国炒股者的春天-免佣金的交易平台Robinhood"
+title:      "免费获得一股票？完全免费的Robinhood平台"
 description: "美国炒股"
-author:     "张新闻"
+author:     "XZ"
 categories: [top]
 header-img: "img/post-bg-2015.jpg"
 tags:
-    - 炒股
+    - 股票
 ---
 
 ## 前言
 
-![](https://fthmb.tqn.com/U733jhmhZuwV2kPjvP9oW5VZCo8=/450x300/filters:no_upscale()/about/stockinvesting-5824dac45f9b58d5b1b85692.png)
+![]({{site.baseurl}}/img/in-post/robinhood/referral.png){: style="width：50%;"}
 
-在美国时间稍微长的同学都可能想去玩玩股票吧。但是大部分的网上交易平台，比如Scottrade 的佣金都非常贵。现在大家不用担心佣金的问题了，最近出了一个手机端炒股平台Robinhood，是**完全** 免佣金的。
+人生或长或短都会接触到股票，早一点学习就会给给我们更多的优势。我今天想给大家推荐一个免费的平台Robinhood, 开户用 [http://share.robinhood.com/xinwenz](http://share.robinhood.com/xinwenz) 链接就会收到一个免费的股票。
+这个平台式完全免费的，而且不需要存任何钱就可以拿到一个免费股票。
 
 
 ## 免费？那这公司是怎么盈利的呢？
