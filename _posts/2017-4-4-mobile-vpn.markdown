@@ -2,7 +2,7 @@
 layout:     post
 title:      "终极手机代理-翻回墙内"
 description: "推荐一款帮助海外华人访问国内应用的VPN!"
-author:     "张新闻"
+author:     "XZ"
 categories: [top]
 header-img: "img/post-bg-2015.jpg"
 tags:
