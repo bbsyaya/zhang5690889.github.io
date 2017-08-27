@@ -39,18 +39,9 @@ markdown: kramdown
 kramdown:
   input: GFM                            # use Github Flavored Markdown !important
 
-
-# Analytics settings
-# Google Analytics
-ga_track_id: UA-78728526-3            # Format: UA-xxxxxx-xx
-ga_domain: liuxueusa.xyz
-
-
-
 # Sidebar settings
 sidebar-about-description: "分享一些对留学生有价值的信息，如果有什么问题，请扫我微信吧！"
 sidebar-avatar: /img/icon_wechat.png      # use absolute URL, seeing it's used in both `/` and `/about/`
-
 
 
 gems:
