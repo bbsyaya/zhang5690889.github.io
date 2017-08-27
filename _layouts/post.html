@@ -52,10 +52,22 @@ layout: default
                 col-md-10 col-md-offset-1
                 post-container">
 
-                
+               
 				{{ content }}
-				
-            {% include pager.html %}  
+				 <section>
+                    <hr><h5>关于</h5>
+                    <div class="short-about">
+                        {% if site.sidebar-avatar %}
+                            <img src="{{site.sidebar-avatar}}" />
+                        {% endif %}
+                        
+                        {% if site.sidebar-about-description %}
+                            <p>{{site.sidebar-about-description}}</p>
+                        {% endif %}
+                        
+                </section>
+                
+            <!--{% include pager.html %}  -->
             </div>  
 
     <!-- Side Catalog Container -->
